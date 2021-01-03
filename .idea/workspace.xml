@@ -8,7 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PSeUATZ1G1wvhHCaCB5xU9Zxsp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +26,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -71,7 +71,7 @@
       <workItem from="1565874863027" duration="27000" />
       <workItem from="1609657299467" duration="1462000" />
       <workItem from="1609658796255" duration="1149000" />
-      <workItem from="1609661506936" duration="829000" />
+      <workItem from="1609661506936" duration="1250000" />
     </task>
     <task id="LOCAL-00001" summary="集合学习">
       <created>1609657334861</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609662045680</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="集合学习">
+      <created>1609662398389</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609662398389</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
