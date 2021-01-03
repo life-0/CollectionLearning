@@ -1,0 +1,50 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListUsing02",
+            "request": "launch",
+            "mainClass": "List.ListUsing02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListLearning",
+            "request": "launch",
+            "mainClass": "List.LinkedListLearning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Collection_9c7c78c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListLearning",
+            "request": "launch",
+            "mainClass": "List.LinkedListLearning",
+            "projectName": "Collection_9c7c78c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CollectionOperation",
+            "request": "launch",
+            "mainClass": "Collection.CollectionOperation",
+            "projectName": "Collection_9c7c78c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CollectionIterator",
+            "request": "launch",
+            "mainClass": "Collection.CollectionIterator",
+            "projectName": "Collection_9c7c78c9"
+        }
+    ]
+}
